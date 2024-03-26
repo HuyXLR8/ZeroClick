@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @HuyXLR8
 -  I’m currently make a app name "ZeroClick"
--  it can change the way you use PC in future
+-  it can open an app via hotkey
 -  could you put your hand on it and give it a try, it just a fist version
 
 
